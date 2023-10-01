@@ -12,10 +12,9 @@ Login to => Recovery_Task_Management
 ![image](https://github.com/siddhardik/Recovery_Task_Management/assets/95465948/1f2a2bbb-7a55-4349-895b-bc1ec18db7af)
 
 
+<b> Folder Structure: </b>
 
-
-
-
+<pre>
 task-management-api/
 |-- app.js
 |-- controllers/
@@ -34,4 +33,7 @@ task-management-api/
 |-- .env
 |-- package.json
 |-- README.md
+
+ </pre>
+
 
